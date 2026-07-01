@@ -1,0 +1,12 @@
+<fetch version="1.0" output-format="xml-platform" mapping="logical" savedqueryid="0d5d377b-5e7c-47b5-bab1-a5cb8b4ac105" no-lock="false" distinct="true">
+<entity name="contact">
+<attribute name="entityimage_url"/>
+<attribute name="fullname"/>
+<attribute name="emailaddress1"/>
+<attribute name="parentcustomerid"/>
+<attribute name="telephone1"/>
+<attribute name="statecode"/>
+<attribute name="contactid"/>
+</entity>
+</fetch>
+ 
